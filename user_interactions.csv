@@ -1,0 +1,28 @@
+email,ticker,Average Price,Percentage Change,Highest Price,Lowest Price
+sarahumairahs@gmail.com,AAPL,"Ticker
+AAPL    240.79
+dtype: float64","Ticker
+AAPL    8.66
+dtype: float64","Ticker
+AAPL    253.48
+dtype: float64","Ticker
+AAPL    228.28
+dtype: float64"
+sarahumairahs@gmail.com,1155.KL,"Ticker
+1155.KL    9.96
+dtype: float64","Ticker
+1155.KL    12.82
+dtype: float64","Ticker
+1155.KL    10.94
+dtype: float64","Ticker
+1155.KL    8.89
+dtype: float64"
+jasmiaqeela@gmail.com,SONY,"Ticker
+SONY    20.54
+dtype: float64","Ticker
+SONY    10.52
+dtype: float64","Ticker
+SONY    22.38
+dtype: float64","Ticker
+SONY    18.92
+dtype: float64"
