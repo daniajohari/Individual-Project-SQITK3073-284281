@@ -1,7 +1,7 @@
 # Individual-Project-SQITK3073-284281
 Stock Selection Tool Using Python and YFinance
 
-STEPS TO USE
+# STEPS TO USE
 1. Run the main.py file to start the application.
 2. If you are a new user, register with your email and password.
 3. If you are a returning user, log in using your registered email and password.
